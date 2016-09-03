@@ -1,4 +1,4 @@
-# Reference list of website check tools.
+# List of website check tools.
 
 ## Accessibility
 
